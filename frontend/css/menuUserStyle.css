@@ -1,0 +1,60 @@
+.routerPlay{
+    text-decoration: none;
+    color: 'rgb(102, 51, 153)'
+}
+
+#div-menuUser{
+    background: #FAFAFA;
+    border: 2% solid #BDBDBD;
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    z-index: 999999;
+}
+
+#div-menuUser li {
+    background: #FAFAFA;
+    border-bottom: 1px solid #E0E0E0;
+    margin: 0;
+    padding: 5px 35px;
+    color: rgb(102, 51, 153);
+}
+
+#div-menuUser li:last-child {
+    border-bottom: none;
+}
+
+#div-menuUser li:hover {
+    background: aqua;
+    color: #FAFAFA;
+}
+
+#div-menuUser form {
+    border-bottom: 1px solid #E0E0E0;
+    margin: 0;
+    color: rgb(102, 51, 153);
+    height: 500%;
+}
+
+#div-menuUser form:last-child {
+    border-bottom: none;
+}
+
+#div-menuUser form:hover {
+    background: aqua;
+    color: #FAFAFA;
+}
+
+#div-menuUser input {
+    width: 98%;
+    height: 100%;
+}
+input,
+textarea {
+	font-size: x-large;
+    background-color: #FAFAFA;
+    border-radius: 4px;
+    color: goldenrod
+}

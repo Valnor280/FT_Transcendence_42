@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # FT_TRANSCENDENCE
 
-Final project of the 42_cursus. (Version: 9)
+Final project of the 42_cursus.
 
 Pongminator3000 is a Single Page Application fullstack website where you can play a Multiplayer Pong, Chat with friends and try to climb the ranking !
 

@@ -41,8 +41,6 @@ Enjoy !
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 [NESTJS](https://docs.nestjs.com/)
 
 [VUEJS3](https://vuejs.org/)
